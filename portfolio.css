@@ -1,0 +1,85 @@
+
+
+/*index page*/
+
+#myname{color:green;
+}
+
+#background1{
+	background-color: rgb(32,32,32);
+    color: white;
+}
+
+#background2{
+	background-color: lightgray;
+	color: black;
+	padding: 20px;
+}
+
+
+
+/*experience page*/
+
+#background3{background-image: url(images/metalt.png);
+}
+
+.background4{background-color: rgb(32,32,32);
+	color: white;
+	border: 4px solid white;
+	border-radius: 15px;
+}
+
+.progress{
+	height: 40px;
+}
+
+
+/*contact page*/
+
+#background5{background-image: url(images/goldflow.png);
+}
+
+#iconinfo{margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.images{
+	padding-left: 30px;
+}
+
+.background6{background-color: rgb(32,32,32); 
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: 4px solid white;
+	border-radius: 18px;
+}
+
+#contactinfo{padding-bottom: 20px; 
+	text-align: center;
+}
+
+
+
+/*blog page*/
+
+.background7{background-color: rgb(32,32,32); 
+	color:white;
+	border: 2px solid white;
+	border-radius: 10px;
+}
+
+.background8{background-color: lightgray; 
+	color:black;
+	border: 2px solid white;
+	border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
